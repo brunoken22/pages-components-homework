@@ -1,0 +1,1 @@
+{"mappings":"AAAA,KAGA,qBAAA,CACA,kBAAA,CAHA,QAAA,CACA,SAIA","sources":["src/index.css"],"sourcesContent":["body{\r\n   margin: 0;\r\n   padding: 0;\r\n   box-sizing: border-box  ;\r\n   font-family: 'Roboto';\r\n   \r\n}"],"names":[],"version":3,"file":"index.f834183c.css.map"}
